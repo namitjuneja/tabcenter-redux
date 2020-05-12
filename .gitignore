@@ -1,4 +1,3 @@
 .DS_Store
 src/sidebar/dist
-web-ext-artifacts
 node_modules
